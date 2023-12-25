@@ -1,0 +1,12 @@
+﻿  lab14 task1.cpp
+C:\Users\dends\Downloads\Лабораторні по вступу\lab14 task1\lab14 task1\lab14 task1.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\dends\Downloads\Лабораторні по вступу\lab14 task1\lab14 task1\lab14 task1.cpp(28,12): warning C4477: "printf": в строке форматирования "%ld" требуется аргумент типа "long", но вариативный аргумент "2" имеет тип "__int64"
+C:\Users\dends\Downloads\Лабораторні по вступу\lab14 task1\lab14 task1\lab14 task1.cpp(28,12): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\dends\Downloads\Лабораторні по вступу\lab14 task1\lab14 task1\lab14 task1.cpp(28,12): message : рекомендуется использовать "%Id" в строке форматирования
+C:\Users\dends\Downloads\Лабораторні по вступу\lab14 task1\lab14 task1\lab14 task1.cpp(28,12): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\dends\Downloads\Лабораторні по вступу\lab14 task1\lab14 task1\lab14 task1.cpp(29,12): warning C4477: "printf": в строке форматирования "%ld" требуется аргумент типа "long", но вариативный аргумент "2" имеет тип "__int64"
+C:\Users\dends\Downloads\Лабораторні по вступу\lab14 task1\lab14 task1\lab14 task1.cpp(29,12): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\dends\Downloads\Лабораторні по вступу\lab14 task1\lab14 task1\lab14 task1.cpp(29,12): message : рекомендуется использовать "%Id" в строке форматирования
+C:\Users\dends\Downloads\Лабораторні по вступу\lab14 task1\lab14 task1\lab14 task1.cpp(29,12): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\dends\Downloads\Лабораторні по вступу\lab14 task1\lab14 task1\lab14 task1.cpp(32,58): warning C4244: аргумент: преобразование "__int64" в "long", возможна потеря данных
+  lab14 task1.vcxproj -> C:\Users\dends\Downloads\Лабораторні по вступу\lab14 task1\x64\Debug\lab14 task1.exe
